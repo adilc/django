@@ -1,4 +1,4 @@
-# example.django.rest_framework.tutorial
+# example.django.rest_framework.tutorialtete
 
 My practices about the following tutorials:
 
